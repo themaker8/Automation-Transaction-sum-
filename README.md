@@ -1,7 +1,7 @@
 
 # Automation (Transaction sum)
 
-So I have made and automation project in python in which you can sum a transaction of yours from a CSV file 
+I have made and automation project in python in which you can sum a transaction of yours from a CSV file 
 
 
 ## Run
